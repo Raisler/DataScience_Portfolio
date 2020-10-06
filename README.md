@@ -1,5 +1,5 @@
 # DataScience_Portfolio
 
-![banner](https://imgur.com/ZSx9vLE)
+[img]https://i.imgur.com/ZSx9vLE.png[/img]
 
 Portfolio de Data Science por Raisler Voigt
