@@ -1,4 +1,4 @@
-Year Month  Anomaly Unc.  Anomaly1 Unc.1   Anomaly2 Unc.2   Anomaly3 Unc.3   Anomaly4 Unc.4
+  Year   Month  Anomaly Unc.    Anomaly1 Unc.1   Anomaly2 Unc.2   Anomaly3 Unc.3   Anomaly4 Unc.4
   1832     1    -0.538  1.611       NaN    NaN       NaN    NaN       NaN    NaN       NaN    NaN
   1832     2    -0.385  3.173       NaN    NaN       NaN    NaN       NaN    NaN       NaN    NaN
   1832     3    -0.919  1.727    -1.042  0.844       NaN    NaN       NaN    NaN       NaN    NaN
