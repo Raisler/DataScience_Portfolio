@@ -5,7 +5,7 @@ PT: Portfolio de Data Science por Raisler Voigt </br>
 
 EN: Temperature Analysis of Bahia, a state in Brazil, from 1960 to August 2013, and making predictions with library Prophet. </br>
 PT: Análise da temperatura na Bahia desde 1960 até Agosto de 2013, e fazendo previsões utilizando a biblioteca Prophet.  </br>
-[LINK](https://colab.research.google.com/github/Raisler/DataScience_Portfolio/blob/master/TemperatureAnalisys/Bahia_Temperatures.ipynb).
+[LINK](https://colab.research.google.com/github/Raisler/DataScience_Portfolio/blob/master/TemperatureAnalisys/Bahia_Temperatures.ipynb)
 
 
 EN: Marvel or DC? Who is the creator? NLP project to classify and predict where the super hero history from.  </br>
