@@ -7,7 +7,7 @@ Português
 
 * [Análise correlacionando o nível de educação com a ausência de pessoas no trabalho de uma empresa brasileira](https://github.com/Raisler/DataScience_Portfolio/blob/master/Absenteeism_Analysis/Absenteeism_at_work.pdf)</br>
 * [Análise do perfil de Elon Musk no twitter usando a inteligência do IBM Wattson](https://github.com/Raisler/Profile-Analisys-On-Twitter)</br>
-* [Análise da temperatura na Bahia desde 1960 até Agosto de 2013, e fazendo previsões](https://github.com/Raisler/DataScience_Portfolio/blob/master/TemperatureAnalysis/Bahia_Temperatures.ipynb) </br>
+* [Análise da temperatura na Bahia desde 1960 até Agosto de 2013 e fazendo previsões](https://github.com/Raisler/DataScience_Portfolio/blob/master/TemperatureAnalysis/Bahia_Temperatures.ipynb) </br>
 * [Marvel ou DC? quem é o criador? Aprendizado de máquina para prever de qual editora a história pode ser](https://www.kaggle.com/raislervoigt/marvel-or-dc-creators)  </br>
 
 English
