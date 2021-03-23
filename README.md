@@ -5,7 +5,7 @@ EN: Data Science Portfolio by Raisler Voigt </br>
 
 Português
 
-* [Detecção de fraude de cartão de cŕedito](https://github.com/Raisler/DataScience_Portfolio/blob/master/CreditCardFraudDetection.ipynb) <br>
+* [Detecção de fraude em cartão de cŕedito](https://github.com/Raisler/DataScience_Portfolio/blob/master/CreditCardFraudDetection.ipynb) <br>
 * [Análise correlacionando o nível de educação com a ausência de pessoas no trabalho de uma empresa brasileira](https://github.com/Raisler/DataScience_Portfolio/blob/master/Absenteeism_Analysis/Absenteeism_at_work_PT.pdf)</br>
 * [Análise do perfil de Elon Musk no twitter usando a inteligência do IBM Wattson](https://github.com/Raisler/Profile-Analisys-On-Twitter)</br>
 * [Análise da temperatura na Bahia desde 1960 até Agosto de 2013 e fazendo previsões](https://github.com/Raisler/DataScience_Portfolio/blob/master/TemperatureAnalysis/Bahia_Temperatures.ipynb) </br>
